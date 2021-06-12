@@ -1,8 +1,8 @@
 import React from 'react';
-import cardShrek from '../components/cardShrek';
+import Card from '../components/CardShrek';
 
-export default function routes() {
-  return(
-    <cardShrek/>
-  )
+export default function Routes() {
+  return (
+    <Card />
+  );
 }
